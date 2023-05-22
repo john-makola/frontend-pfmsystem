@@ -1,5 +1,5 @@
 # Staff Performance Appraisal System Front End
-![PFMS](image.jpg)
+![PFMS](public/pfmsystem.png)
 
 The Staff Performance Appraisal System (SPAS) is a system of integrating employee participation through work planning, target setting and execution, evaluation, feedback and reporting.
 
